@@ -31,7 +31,7 @@ git clone https://github.com/Kazuha787/OG-Lab-Auto-Bot.git
 
 2️⃣ Navigate to the Project Folder
 ```sh
-cd 0G-Lab-Auto-Bot
+cd OG-Lab-Auto-Bot
 ```
 
 3️⃣ Install Required Dependencies
