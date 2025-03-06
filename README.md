@@ -1,4 +1,4 @@
-⚡ 0G-Lab Auto Transaction Bot
+## 0G-Lab Auto Transaction Bot
 
 🔥 Automate Your Daily Transactions on 0G Labs Testnet!
 
