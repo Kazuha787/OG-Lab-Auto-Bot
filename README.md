@@ -26,7 +26,7 @@ No more manual transactions! This bot ensures your wallet stays active by automa
 1️⃣ Clone the Repository
 
 ```sh
-git clone https://github.com/Kazuha787/0G-Lab-Auto-Bot.git
+git clone https://github.com/Kazuha787/OG-Lab-Auto-Bot.git
 ```
 
 2️⃣ Navigate to the Project Folder
